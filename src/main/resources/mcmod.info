@@ -1,0 +1,17 @@
+[
+{
+  "modid": "nbr_mod",
+  "name": "New Basis Recipes Mod",
+  "description": "Fuegt mehr Standart Rezepte hinzu. Add basis crafting recipes.",
+  "version": "1.0.5",
+  "mcversion": "1.7.2",
+  "logoFile": "NBRlogo.png",
+  "url": "http://minecraft.de/showthread.php?120019-Forge-SMP-SSP-New-Basis-Recipes-Mod",
+  "updateUrl": "",
+  "authors": ["Bonbonkocher","Creasouzou","IceDragonZess"],
+  "credits": "Everything made by me Bonbonkocher and by Creasouzou",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": ["Forge"]
+}
+]
